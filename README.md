@@ -1,3 +1,3 @@
 # Dariyan-s-Tech-Inspirations
  
-https://github.com/ms-dariyansim-xo/Dariyan-s-Tech-Inspirations
+https://ms-dariyansim-xo.github.io/Dariyan-s-Tech-Inspirations/
